@@ -1,0 +1,10 @@
+:root {
+    --textColor1: #333,
+    --textColor2: #666,
+    --textColor3: #888,
+    --textColor4: #999,
+}
+
+body {
+    color: var(--textColor1);
+}
